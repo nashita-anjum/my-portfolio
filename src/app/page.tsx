@@ -329,7 +329,7 @@ export default function Home() {
         <div className="projects-header">
           <h2>
             Things I&apos;ve
-            <span> built.</span>
+            <span> worked with.</span>
           </h2>
 
           <p>
